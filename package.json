@@ -1,0 +1,70 @@
+{
+  "_args": [
+    [
+      "@kimonolabs/obi-start@0.0.2",
+      "/Users/benehmke/code/scheduler"
+    ]
+  ],
+  "_from": "@kimonolabs/obi-start@0.0.2",
+  "_id": "@kimonolabs/obi-start@0.0.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/@kimonolabs/obi-start",
+  "_nodeVersion": "0.10.33",
+  "_npmUser": {
+    "email": "matt.insler@gmail.com",
+    "name": "mattinsler"
+  },
+  "_npmVersion": "2.1.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "@kimonolabs/obi-start",
+    "raw": "@kimonolabs/obi-start@0.0.2",
+    "rawSpec": "0.0.2",
+    "scope": "@kimonolabs",
+    "spec": "0.0.2",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://npm.kimonolabs.com:8080/@/@kimonolabs/obi-start/_attachments/obi-start-0.0.2.tgz",
+  "_shasum": "a10860e5b357ff7762fcb7990073009cde245f15",
+  "_shrinkwrap": null,
+  "_spec": "@kimonolabs/obi-start@0.0.2",
+  "_where": "/Users/benehmke/code/scheduler",
+  "bin": {
+    "obi-start": "bin/obi-start"
+  },
+  "bugs": {
+    "url": "https://github.com/kimonolabs/obi-start/issues"
+  },
+  "dependencies": {
+    "app-context": "0.0.1",
+    "q": "^1.1.2"
+  },
+  "description": "Start your Kimono project",
+  "devDependencies": {},
+  "dist": {
+    "shasum": "a10860e5b357ff7762fcb7990073009cde245f15",
+    "tarball": "http://npm.kimonolabs.com:8080/@/@kimonolabs/obi-start/_attachments/obi-start-0.0.2.tgz"
+  },
+  "gitHead": "fcccbf144dffa6e905f03710ebf7be3b620951d7",
+  "homepage": "https://github.com/kimonolabs/obi-start",
+  "main": "./lib/obi-start",
+  "maintainers": [
+    {
+      "name": "mattinsler",
+      "email": "matt.insler@gmail.com"
+    }
+  ],
+  "name": "@kimonolabs/obi-start",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kimonolabs/obi-start.git"
+  },
+  "scripts": {},
+  "version": "0.0.2"
+}
